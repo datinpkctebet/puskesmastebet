@@ -378,3 +378,18 @@ Route::group(['prefix' => 'karir'], function()
 Route::get('/kontak-kami', function () {
     return view('pages.kontak');
 });
+
+/*
+|--------------------------------------------------------------------------
+| Profil dan Laporan Tahunan
+|--------------------------------------------------------------------------
+*/
+Route::get('/profil-tahunan-2024', function () {
+    $filePath = public_path('files/profil-tahunan-2024.pdf');
+    return response()->file($filePath);
+});
+
+Route::get('/laporan-tahunan-2024', function () {
+    $filePath = public_path('files/laporan-tahunan-2024.pdf');
+    return response()->file($filePath);
+});

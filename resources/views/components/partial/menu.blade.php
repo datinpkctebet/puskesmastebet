@@ -43,7 +43,9 @@
               <ul class="dropdown-menu drop_menu" role="menu">
                 @foreach ($item['group'] as $subitem)
                   <li>
-                    <a href="{{ $subitem['url'] }}">
+                    @if($subitem['url'] == '/profil-tahunan-2024' || $subitem['url'] == '/laporan-tahunan-2024')
+                      <a href="{{ $subitem['url'] }}" target="_blank" rel="noopener">
+                    @endif
                       {{ $subitem['name'] }}
                     </a>
                   </li>

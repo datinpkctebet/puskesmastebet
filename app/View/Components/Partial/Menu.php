@@ -169,6 +169,19 @@ class Menu extends Component
                 'name' => 'Kontak',
                 'url' => '/kontak-kami',
             ],
+            [
+                'name' => 'Profil dan Laporan Tahunan',
+                'group' => [
+                    [
+                        'name' => 'Profil Tahunan 2024',
+                        'url' => '/profil-tahunan-2024',
+                    ],
+                    [
+                        'name' => 'Laporan Tahunan 2024',
+                        'url' => '/laporan-tahunan-2024',
+                    ],
+                ],
+            ],
         ];
     }
 }
