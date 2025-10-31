@@ -291,13 +291,13 @@
 
       
         <li class="nav-item col-6 col-md-4 col-lg-1">
-          <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-5">
+          <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-5">
             <img src="{{ asset('new-assets/img/jaringan/1-mendal.png') }}" class="img-fluid" style="max-width: 120%; height: auto;" alt="">
           </a>
         </li><!-- End Tab 1 Nav -->
 
         <li class="nav-item col-6 col-md-4 col-lg-1">
-          <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
+          <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-1">
             <img src="{{ asset('new-assets/img/jaringan/2-bukdur.png') }}" class="img-fluid" style="max-width: 120%; height: auto;" alt="">
           </a>
         </li><!-- End Tab 2 Nav -->
@@ -338,7 +338,7 @@
 
         <div class="tab-content">
 
-          <div class="tab-pane fade active show" id="features-tab-1">
+          <div class="tab-pane fade" id="features-tab-1">
             <div class="row gy-4">
               <div class="col-lg-8 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
                 <h3>Puskesmas Pembantu Bukit Duri</h3>
@@ -430,7 +430,7 @@
             </div>
           </div><!-- End Tab Content 4 -->
 
-          <div class="tab-pane fade" id="features-tab-5">
+          <div class="tab-pane fade active show" id="features-tab-5">
             <div class="row gy-4">
               <div class="col-lg-8 order-2 order-lg-1">
                 <h3>Puskesmas Pembantu Menteng Dalam</h3>
@@ -996,10 +996,10 @@
               </div><!-- End Info Item -->
 
               <div class="info-item d-flex">
-                <i class="bi bi-phone flex-shrink-0"></i>
+                <i class="bi bi-whatsapp flex-shrink-0"></i>
                 <div>
-                  <h4>Telepon:</h4>
-                  <p>(021) 8350632</p>
+                  <h4>Whatsapp:</h4>
+                  <p>(+62) 82113266646</p>
                 </div>
               </div><!-- End Info Item -->
 
