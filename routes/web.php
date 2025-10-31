@@ -393,3 +393,31 @@ Route::get('/laporan-tahunan-2024', function () {
     $filePath = public_path('files/laporan-tahunan-2024.pdf');
     return response()->file($filePath);
 });
+
+/*
+|--------------------------------------------------------------------------
+| ILP (Integrasi Layanan Primer)
+|--------------------------------------------------------------------------
+*/
+Route::group(['prefix' => 'ilp'], function()
+{
+    Route::get('/klaster1', function () {
+        return view('pages.ilp.klaster1');
+    });
+
+    Route::get('/klaster2', function () {
+        return view('pages.ilp.klaster2');
+    });
+
+    Route::get('/klaster3', function () {
+        return view('pages.ilp.klaster3');
+    });
+
+    Route::get('/klaster4', function () {
+        return view('pages.ilp.klaster4');
+    });
+
+    Route::get('/klaster5', function () {
+        return view('pages.ilp.klaster5');
+    });
+});
