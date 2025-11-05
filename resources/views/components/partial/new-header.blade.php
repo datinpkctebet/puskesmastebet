@@ -18,6 +18,7 @@
         <li><a href="{{ URL('/') }}#insta">Instagram</a></li>
         <!-- <li><a href="{{ URL('/') }}#berita">Berita</a></li> -->
         <li><a href="{{ URL('/') }}#kontak">Kontak</a></li>
+        <li><a href="https://ppid-dinkes.jakarta.go.id/sudinkes-jaksel/" target="_blank" rel="noopener">PPID</a></li>
         <li class="dropdown"><a href="#"><span>Aplikasi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
           <ul>
             <li><a href="https://e-kinerja.puskesmastebet.com/" target="_blank" rel="noopener">E-Kinerja</a></li>
@@ -25,6 +26,7 @@
             <li><a href="https://pkc-internal.com/heroes/" target="_blank" rel="noopener">Heroes</a></li>
           </ul>
         </li>
+        <li><a href="https://e-kinerja.puskesmastebet.com/check-employee" target="_blank" rel="noopener">Validasi Pegawai</a></li>
         <!-- <li class="dropdown"><a href="#"><span>ILP (Integrasi Layanan Primer)</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
           <ul>
             <li class="dropdown"><a href="#"><span>Klaster 1 Manajemen</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
