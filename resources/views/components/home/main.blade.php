@@ -516,7 +516,7 @@
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-        <div class="row gy-4">
+        <div class="row gy-4 mb-4">
 
           <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="pelayanan-item featured">
@@ -538,9 +538,40 @@
 
           <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="600">
             <div class="pelayanan-item featured">
-              <img src="{{ asset('new-assets/img/jadwal-pelayanan.png') }}" alt="">
+              <img src="{{ asset('new-assets/img/jenis-pelayanan.jpg') }}" alt="">
               <div class="pelayanan-info">
-                <a href="{{ asset('new-assets/img/jadwal-pelayanan.png') }}" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="{{ asset('new-assets/img/jenis-pelayanan.jpg') }}" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              </div>
+            </div>
+          </div><!-- End Pelayanan Item -->
+
+        </div>
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="pelayanan-item featured">
+              <img src="{{ asset('new-assets/img/tarif-tindakan.jpg') }}" alt="">
+              <div class="pelayanan-info">
+                <a href="{{ asset('new-assets/img/tarif-tindakan.jpg') }}" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              </div>
+            </div>
+          </div><!-- End Pelayanan Item -->
+
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
+            <div class="pelayanan-item featured">
+              <img src="{{ asset('new-assets/img/tarif-pendaftaran.jpg') }}" alt="">
+              <div class="pelayanan-info">
+                <a href="{{ asset('new-assets/img/tarif-pendaftaran.jpg') }}" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              </div>
+            </div>
+          </div><!-- End Pelayanan Item -->
+
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="600">
+            <div class="pelayanan-item featured">
+              <img src="{{ asset('new-assets/img/tarif-pelayanan.jpg') }}" alt="">
+              <div class="pelayanan-info">
+                <a href="{{ asset('new-assets/img/tarif-pelayanan.jpg') }}" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               </div>
             </div>
           </div><!-- End Pelayanan Item -->
@@ -575,6 +606,14 @@
             }
           </script>
           <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="info-grafis-item">
+                <a href="{{ asset('new-assets/img/tarif-laboratorium.jpg') }}" class="glightbox preview-link">
+                  <img src="{{ asset('new-assets/img/tarif-laboratorium.jpg') }}" class="img-fluid animated" style="max-width: 30%; height: auto;" alt="">
+                </a>
+              </div>
+            </div><!-- End Info Grafis Prolanis item -->
 
             <div class="swiper-slide">
               <div class="info-grafis-item">

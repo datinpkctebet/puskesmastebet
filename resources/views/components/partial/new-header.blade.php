@@ -19,6 +19,12 @@
         <!-- <li><a href="{{ URL('/') }}#berita">Berita</a></li> -->
         <li><a href="{{ URL('/') }}#kontak">Kontak</a></li>
         <li><a href="https://ppid-dinkes.jakarta.go.id/sudinkes-jaksel/" target="_blank" rel="noopener">PPID</a></li>
+        <li class="dropdown"><a href="#"><span>Profil dan Laporan Tahunan</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+          <ul>
+            <li><a href="{{ URL('/profil-tahunan-2024') }}" target="_blank" rel="noopener">Profil Tahunan 2024</a></li>
+            <li><a href="{{ URL('/laporan-tahunan-2024') }}" target="_blank" rel="noopener">Laporan Tahunan 2024</a></li>
+          </ul>
+        </li>
         <li class="dropdown"><a href="#"><span>Aplikasi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
           <ul>
             <li><a href="https://e-kinerja.puskesmastebet.com/" target="_blank" rel="noopener">E-Kinerja</a></li>
