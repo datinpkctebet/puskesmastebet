@@ -1039,7 +1039,7 @@
                 <i class="bi bi-whatsapp flex-shrink-0"></i>
                 <div>
                   <h4>Whatsapp:</h4>
-                  <p>(+62) 82113266646</p>
+                  <p>(+62) 81395592888</p>
                 </div>
               </div><!-- End Info Item -->
 
