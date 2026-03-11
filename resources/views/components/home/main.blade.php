@@ -529,18 +529,18 @@
 
           <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
             <div class="pelayanan-item featured">
-              <img src="{{ asset('new-assets/img/jadwal-pelayanan.png') }}" alt="">
+              <img src="{{ asset('new-assets/img/jadwal-pelayanan1.png') }}" alt="">
               <div class="pelayanan-info">
-                <a href="{{ asset('new-assets/img/jadwal-pelayanan.png') }}" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="{{ asset('new-assets/img/jadwal-pelayanan1.png') }}" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               </div>
             </div>
           </div><!-- End Pelayanan Item -->
 
           <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="600">
             <div class="pelayanan-item featured">
-              <img src="{{ asset('new-assets/img/jenis-pelayanan.jpg') }}" alt="">
+              <img src="{{ asset('new-assets/img/jadwal-pelayanan2.png') }}" alt="">
               <div class="pelayanan-info">
-                <a href="{{ asset('new-assets/img/jenis-pelayanan.jpg') }}" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="{{ asset('new-assets/img/jadwal-pelayanan2.png') }}" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               </div>
             </div>
           </div><!-- End Pelayanan Item -->
@@ -665,14 +665,6 @@
 
             <div class="swiper-slide">
               <div class="info-grafis-item">
-                <a href="{{ asset('new-assets/img/info-grafis/jadwal-gigi-pustu.png') }}" class="glightbox preview-link">
-                  <img src="{{ asset('new-assets/img/info-grafis/jadwal-gigi-pustu.png') }}" class="img-fluid animated" style="max-width: 30%; height: auto;" alt="">
-                </a>
-              </div>
-            </div><!-- End Info Grafis Jadwal Gigi Pustu item -->
-
-            <div class="swiper-slide">
-              <div class="info-grafis-item">
                 <a href="{{ asset('new-assets/img/info-grafis/jadwal-imunisasi.png') }}" class="glightbox preview-link">
                   <img src="{{ asset('new-assets/img/info-grafis/jadwal-imunisasi.png') }}" class="img-fluid animated" style="max-width: 30%; height: auto;" alt="">
                 </a>
@@ -753,16 +745,16 @@
 
             <div class="swiper-slide">
               <div class="info-grafis-item">
-                <a href="{{ asset('new-assets/img/info-grafis/yankestrad.png') }}" class="glightbox preview-link">
-                  <img src="{{ asset('new-assets/img/info-grafis/yankestrad.png') }}" class="img-fluid animated" style="max-width: 30%; height: auto;" alt="">
+                <a href="{{ asset('new-assets/img/info-grafis/akupresur.png') }}" class="glightbox preview-link">
+                  <img src="{{ asset('new-assets/img/info-grafis/akupresur.png') }}" class="img-fluid animated" style="max-width: 30%; height: auto;" alt="">
                 </a>
               </div>
-            </div><!-- End Info Grafis Yankestrad item -->
+            </div><!-- End Info Grafis Akupresur item -->
 
             <div class="swiper-slide">
               <div class="info-grafis-item">
-                <a href="{{ asset('new-assets/img/info-grafis/yoga-hamil.png') }}" class="glightbox preview-link">
-                  <img src="{{ asset('new-assets/img/info-grafis/yoga-hamil.png') }}" class="img-fluid animated" style="max-width: 30%; height: auto;" alt="">
+                <a href="{{ asset('new-assets/img/info-grafis/prenatal-yoga.png') }}" class="glightbox preview-link">
+                  <img src="{{ asset('new-assets/img/info-grafis/prenatal-yoga.png') }}" class="img-fluid animated" style="max-width: 30%; height: auto;" alt="">
                 </a>
               </div>
             </div><!-- End Info Grafis Yoga Hamil item -->
