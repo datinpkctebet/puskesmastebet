@@ -22,16 +22,22 @@
       <div class="container">
         <div class="row gy-4 align-items-center">
           <div class="col-lg-6" data-aos="fade-up">
-            <img src="{{ asset('new-assets/img/penerimaan-pegawai.png') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid">
+            <img src="{{ asset('new-assets/img/penerimaan-pegawai.jpeg') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid">
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="mb-3">Penerimaan Pegawai Tenaga Sanitasi Lingkungan 2026</h3>
-            <h5>Link Surat Pengumuman Rekrutmen:</h5>
-            <a href="https://www.puskesmastebet.com/rekrutmen" class="cta-btn align-self-start mb-3">Lihat Pengumuman</a>
-            <h5>Link Formulir Rekrutmen:</h5>
-            <a href="https://www.puskesmastebet.com/rekrutmen" class="cta-btn align-self-start mb-3">Lihat Formulir</a>
-            <h5>Link Contoh Surat Pernyataan:</h5>
-            <a href="https://www.puskesmastebet.com/rekrutmen" class="cta-btn align-self-start mb-3">Lihat Contoh Surat</a>
+            <div class="d-flex flex-column align-items-start">
+              <h5>Link Surat Pengumuman Rekrutmen:</h5>
+              <a href="https://bit.ly/SuratPengumumanRekrutmen" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Pengumuman</a>
+            </div>
+            <div class="d-flex flex-column align-items-start">
+              <h5>Link Formulir Rekrutmen:</h5>
+              <a href="https://bit.ly/Rekrutmen-TSL-PKMTEBET2026" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Formulir</a>
+            </div>
+            <div class="d-flex flex-column align-items-start">
+              <h5>Link Contoh Surat Pernyataan:</h5>
+              <a href="https://drive.google.com/drive/folders/1Le9_US6cq_6NJSfiQ7arL_gwgqo6qF0R?usp=drive_link" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Contoh Surat</a>
+            </div>
           </div>
         </div>
       </div>
