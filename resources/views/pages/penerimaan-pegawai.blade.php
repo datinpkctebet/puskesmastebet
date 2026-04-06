@@ -22,10 +22,10 @@
       <div class="container">
         <div class="row gy-4 align-items-center">
           <div class="col-lg-6" data-aos="fade-up">
-            <img src="{{ asset('new-assets/img/klaster-1.png') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid">
+            <img src="{{ asset('new-assets/img/penerimaan-pegawai.png') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid">
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3>Penerimaan Pegawai Tenaga Sanitasi Lingkungan 2026</h3>
+            <h3 class="mb-3">Penerimaan Pegawai Tenaga Sanitasi Lingkungan 2026</h3>
             <h5>Link Surat Pengumuman Rekrutmen:</h5>
             <a href="https://www.puskesmastebet.com/rekrutmen" class="cta-btn align-self-start mb-3">Lihat Pengumuman</a>
             <h5>Link Formulir Rekrutmen:</h5>
