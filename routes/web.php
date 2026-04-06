@@ -10,6 +10,10 @@ Route::get('/standar-pelayanan', function () {
     return view('pages.standar-pelayanan');
 });
 
+Route::get('/penerimaan-pegawai', function () {
+    return view('pages.penerimaan-pegawai');
+});
+
 /*
 |--------------------------------------------------------------------------
 | BLOG
