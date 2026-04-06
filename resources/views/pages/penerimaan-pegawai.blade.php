@@ -25,36 +25,13 @@
             <img src="{{ asset('new-assets/img/klaster-1.png') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid">
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3>Penerimaan Pegawai Puskesmas Tebet</h3>
-            <ul class="list-group mb-3">
-              <li class="list-group-item d-flex justify-content-between align-items-center">
-                Total Formasi
-                <span class="badge bg-primary rounded-pill">20</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-center">
-                Pegawai Diterima Tahun Ini
-                <span class="badge bg-success rounded-pill">8</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-center">
-                Sisa Formasi
-                <span class="badge bg-warning rounded-pill">12</span>
-              </li>
-            </ul>
-            <h5>Syarat Pendaftaran:</h5>
-            <ol>
-              <li>Warga Negara Indonesia</li>
-              <li>Minimal pendidikan D3/S1 sesuai formasi</li>
-              <li>Usia maksimal 35 tahun</li>
-              <li>Sehat jasmani dan rohani</li>
-            </ol>
-            <h5 class="mt-3">Alur Pendaftaran:</h5>
-            <ol>
-              <li>Mengisi formulir online</li>
-              <li>Upload dokumen persyaratan</li>
-              <li>Seleksi administrasi</li>
-              <li>Wawancara</li>
-              <li>Pengumuman hasil</li>
-            </ol>
+            <h3>Penerimaan Pegawai Tenaga Sanitasi Lingkungan 2026</h3>
+            <h5>Link Surat Pengumuman Rekrutmen:</h5>
+            <a href="https://www.puskesmastebet.com/rekrutmen" class="btn btn-primary mb-3">Lihat Pengumuman</a>
+            <h5>Link Formulir Rekrutmen:</h5>
+            <a href="https://www.puskesmastebet.com/rekrutmen" class="btn btn-primary mb-3">Lihat Formulir</a>
+            <h5>Link Contoh Surat Pernyataan:</h5>
+            <a href="https://www.puskesmastebet.com/rekrutmen" class="btn btn-primary mb-3">Lihat Contoh Surat</a>
           </div>
         </div>
       </div>
