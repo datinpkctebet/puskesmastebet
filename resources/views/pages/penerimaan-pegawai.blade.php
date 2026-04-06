@@ -27,11 +27,11 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3>Penerimaan Pegawai Tenaga Sanitasi Lingkungan 2026</h3>
             <h5>Link Surat Pengumuman Rekrutmen:</h5>
-            <a href="https://www.puskesmastebet.com/rekrutmen" class="btn btn-primary mb-3">Lihat Pengumuman</a>
+            <a href="https://www.puskesmastebet.com/rekrutmen" class="cta-btn align-self-start mb-3">Lihat Pengumuman</a>
             <h5>Link Formulir Rekrutmen:</h5>
-            <a href="https://www.puskesmastebet.com/rekrutmen" class="btn btn-primary mb-3">Lihat Formulir</a>
+            <a href="https://www.puskesmastebet.com/rekrutmen" class="cta-btn align-self-start mb-3">Lihat Formulir</a>
             <h5>Link Contoh Surat Pernyataan:</h5>
-            <a href="https://www.puskesmastebet.com/rekrutmen" class="btn btn-primary mb-3">Lihat Contoh Surat</a>
+            <a href="https://www.puskesmastebet.com/rekrutmen" class="cta-btn align-self-start mb-3">Lihat Contoh Surat</a>
           </div>
         </div>
       </div>
