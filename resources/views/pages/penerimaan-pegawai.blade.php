@@ -22,7 +22,7 @@
       <div class="container">
         <div class="row gy-4 align-items-center">
           <div class="col-lg-6" data-aos="fade-up">
-            <img src="{{ asset('new-assets/img/infografis-penerimaan.png') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid">
+            <img src="{{ asset('new-assets/img/klaster-1.png') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid">
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3>Penerimaan Pegawai Puskesmas Tebet</h3>
