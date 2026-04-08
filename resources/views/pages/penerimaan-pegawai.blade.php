@@ -38,6 +38,10 @@
               <h5>Link Contoh Surat Pernyataan:</h5>
               <a href="https://drive.google.com/drive/folders/1Le9_US6cq_6NJSfiQ7arL_gwgqo6qF0R?usp=drive_link" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Contoh Surat</a>
             </div>
+            <div class="d-flex flex-column align-items-start">
+              <h5>Link Surat Pengumuman Hasil Seleksi:</h5>
+              <a href="https://bit.ly/SuratPengumumanHasilSeleksi " class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Pengumuman Hasil Seleksi</a>
+            </div>
           </div>
         </div>
       </div>
