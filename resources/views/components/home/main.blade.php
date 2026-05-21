@@ -262,7 +262,7 @@
           </div>
           <div class="col-lg-6">
             <div class="content d-flex flex-column justify-content-center h-100">
-              <h3>Puskesmas Tebet</h3>
+              <h3>BLU PUSKESMAS TEBET</h3>
               <p class="fst-italic">
                 Pusat Kesehatan Masyarakat (PUSKESMAS) adalah fasilitas pelayanan kesehatan yang menyelenggarakan upaya kesehatan masyarakat dan upaya kesehatan perorangan tingkat pertama, dengan lebih mengutamakan upaya promotif dan preventif, untuk mencapai derajat kesehatan masyarakat yang setinggi-tingginya di wilayah kerjanya. Puskesmas Tebet merupakan unit pelaksana teknis Dinas Kesehatan.
               </p>
