@@ -1015,7 +1015,7 @@
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
                   <h4>Lokasi:</h4>
-                  <p>Jl. Tebet Barat Raya, RT.11/RW.7, Tebet Bar., Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12810</p>
+                  <p>Jl. Tebet Barat Raya RT 011 RW 007, South Jakarta, Indonesia, 12810</p>
                 </div>
               </div><!-- End Info Item -->
 
