@@ -1032,6 +1032,7 @@
                 <div>
                   <h4>Whatsapp:</h4>
                   <p>0218350632</p>
+                  <p>081395592888</p>
                 </div>
               </div><!-- End Info Item -->
 
