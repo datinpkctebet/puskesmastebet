@@ -1031,7 +1031,7 @@
                 <i class="bi bi-whatsapp flex-shrink-0"></i>
                 <div>
                   <h4>Whatsapp:</h4>
-                  <p>(+62) 81395592888</p>
+                  <p>0218350632</p>
                 </div>
               </div><!-- End Info Item -->
 
