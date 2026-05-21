@@ -1015,7 +1015,7 @@
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
                   <h4>Lokasi:</h4>
-                  <p>Jl. Tebet Barat Raya RT 011 RW 007, South Jakarta, Indonesia, 12810</p>
+                  <p>JL TEBET BARAT	RAYA RT 011 RW 007, Desa/Kelurahan Tebet Barat, Kec. Tebet, Kota Adm. Jakarta Selatan, Provinsi DKI Jakarta, Kode Pos: 12810</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -1023,7 +1023,7 @@
                 <i class="bi bi-envelope flex-shrink-0"></i>
                 <div>
                   <h4>Email:</h4>
-                  <p>puskesmas.tebet@jakarta.go.id</p>
+                  <p>pemeliharaan.tebet@gmail.com</p>
                 </div>
               </div><!-- End Info Item -->
 
