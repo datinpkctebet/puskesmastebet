@@ -1023,7 +1023,7 @@
                 <i class="bi bi-envelope flex-shrink-0"></i>
                 <div>
                   <h4>Email:</h4>
-                  <p>pemeliharaan.tebet@gmail.com</p>
+                  <p>puskesmas.tebet@jakarta.go.id</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -1031,7 +1031,7 @@
                 <i class="bi bi-whatsapp flex-shrink-0"></i>
                 <div>
                   <h4>Whatsapp:</h4>
-                  <p>0218350632</p>
+                  <!-- <p>0218350632</p> -->
                   <p>081395592888</p>
                 </div>
               </div><!-- End Info Item -->
