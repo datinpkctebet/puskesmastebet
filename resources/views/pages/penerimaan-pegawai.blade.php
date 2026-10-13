@@ -22,25 +22,25 @@
       <div class="container">
         <div class="row gy-4 align-items-center">
           <div class="col-lg-6" data-aos="fade-up">
-            <img src="{{ asset('new-assets/img/penerimaan-pegawai2.png') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid" style="max-width: 70%; height: auto; align-self: center;">
+            <img src="{{ asset('new-assets/img/penerimaan-pegawai3.jpeg') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid" style="max-width: 70%; height: auto; align-self: center;">
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3 class="mb-3">Penerimaan Tenaga Pranata Laboratorium</h3>
+            <h3 class="mb-3">Penerimaan Tenaga Perawat Terampil dan Bidan Terampil</h3>
             <div class="d-flex flex-column align-items-start">
               <h5>Link Surat Pengumuman Rekrutmen:</h5>
-              <a href="https://drive.google.com/drive/folders/1vg1xWgjPFghlji3y1lkLOeYDz6Y8onxE?usp=drive_link" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Pengumuman</a>
+              <a href="https://drive.google.com/drive/folders/1z1iI9mKivBQAJJwnAFk8e-6of3x1ViKy?usp=drive_link" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Pengumuman</a>
             </div>
             <div class="d-flex flex-column align-items-start">
               <h5>Link Formulir Rekrutmen:</h5>
-              <a href="https://forms.gle/bm7zx1aUWabsnxf28" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Formulir</a>
+              <a href="https://forms.gle/ckNNH5mD7CTzGRAz5" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Formulir</a>
             </div>
             <div class="d-flex flex-column align-items-start">
               <h5>Link Contoh Surat Pernyataan:</h5>
-              <a href="https://drive.google.com/drive/folders/1C2I2_3S_DO8WQkNWX4TdtXXl7mOFucqX?usp=drive_link" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Contoh Surat</a>
+              <a href="https://drive.google.com/drive/folders/1zvPaB9dtTdfY6aFrOVcJd1NgOVwxj0ya?usp=drive_link" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Contoh Surat</a>
             </div>
             <div class="d-flex flex-column align-items-start">
               <h5>Link Surat Pengumuman Hasil Seleksi:</h5>
-              <a href="https://drive.google.com/drive/folders/1GuMJDGJEGo7I9FPNzl9aXCUGTnAROHUJ?usp=drive_link" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Pengumuman Hasil Seleksi</a>
+              <a href="https://drive.google.com/drive/folders/1aqU983ySJ1RK0YRK7mp5F6IFFi2VA3In?usp=drive_link" class="cta-btn align-self-start mb-3" target="_blank" rel="noopener">Lihat Pengumuman Hasil Seleksi</a>
             </div>
           </div>
         </div>
