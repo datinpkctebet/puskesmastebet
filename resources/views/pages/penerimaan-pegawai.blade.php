@@ -22,7 +22,7 @@
       <div class="container">
         <div class="row gy-4 align-items-center">
           <div class="col-lg-6" data-aos="fade-up">
-            <img src="{{ asset('new-assets/img/penerimaan-pegawai3.png') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid" style="max-width: 70%; height: auto; align-self: center;">
+            <img src="{{ asset('new-assets/img/penerimaan-pegawai4.png') }}" alt="Infografis Penerimaan Pegawai" class="img-fluid" style="max-width: 70%; height: auto; align-self: center;">
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="mb-3">Penerimaan Tenaga Perawat Terampil dan Bidan Terampil</h3>
