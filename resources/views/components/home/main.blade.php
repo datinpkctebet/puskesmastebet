@@ -69,6 +69,15 @@
               </div>
             </div>
           </div>
+          <div class="swiper-slide">
+            <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
+              <img src="{{ asset('new-assets/img/sipanda-main.png') }}" class="img-fluid animated" style="max-width: 90%; height: auto;" alt="">
+              <h1><span>SI PANDA</span> di Daycare</h1>
+              <div class="d-flex">
+                <a href="https://sipanda.puskesmastebet.com/" class="btn-watch-video d-flex align-items-center" target="_blank" rel="noopener noreferrer"><i class="bi bi-browser-chrome"></i><span>Kunjungi Website</span></a>
+              </div>
+            </div>
+          </div>
           
         </div>
         <div class="swiper-pagination mt-5"></div>
