@@ -388,13 +388,13 @@ Route::get('/kontak-kami', function () {
 | Profil dan Laporan Tahunan
 |--------------------------------------------------------------------------
 */
-Route::get('/profil-tahunan-2024', function () {
-    $filePath = public_path('files/profil-tahunan-2024.pdf');
+Route::get('/profil-tahunan-2025', function () {
+    $filePath = public_path('files/profil-tahunan-2025.pdf');
     return response()->file($filePath);
 });
 
-Route::get('/laporan-tahunan-2024', function () {
-    $filePath = public_path('files/laporan-tahunan-2024.pdf');
+Route::get('/laporan-tahunan-2025', function () {
+    $filePath = public_path('files/laporan-tahunan-2025.pdf');
     return response()->file($filePath);
 });
 
